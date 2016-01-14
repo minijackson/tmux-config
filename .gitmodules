@@ -1,6 +1,8 @@
 [submodule "plugins/tmux-copycat"]
 	path = plugins/copycat
 	url = https://github.com/tmux-plugins/tmux-copycat.git
+	branch = master
 [submodule "plugins/sidebar"]
 	path = plugins/sidebar
 	url = https://github.com/tmux-plugins/tmux-sidebar.git
+	branch = master
